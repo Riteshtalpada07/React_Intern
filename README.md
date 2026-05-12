@@ -75,10 +75,10 @@ export default SkillList
 ## 📸 Screenshots / Proof of Work
 
 > **UI Screenshot:**  
-> ![UI Screenshot](/task-1/Screenshots/UI.png)
+> ![UI Screenshot](/Screenshots/UI.png)
 
 > **Console Output Screenshot:**  
-> ![Console Screenshot](/task-1/Screenshots/console.png)
+> ![Console Screenshot](/Screenshots/console.png)
 
 ---
 
