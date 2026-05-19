@@ -187,10 +187,10 @@ button:hover {
 > ![Counter App Screenshot](/Screenshot/counter.png)
 
 > **Increment Function Screenshot:**  
-> ![Increment Screenshot](/Screenshots/increment.png)
+> ![Increment Screenshot](/Screenshot/increment.png)
 
 > **Decrement Function Screenshot:**  
-> ![Decrement Screenshot](/Screenshots/decrement.png)
+> ![Decrement Screenshot](/Screenshot/decrement.png)
 
 ---
 
