@@ -123,14 +123,10 @@ export default App;
 ## 📸 Screenshots / Proof of Work
 
 > **Light Theme Screenshot:**  
-> ![Light Theme Screenshot](/Screenshots/light-theme.png)
+> ![Light Theme Screenshot](/Screenshot/light.png)
 
 > **Dark Theme Screenshot:**  
-> ![Dark Theme Screenshot](/Screenshots/dark-theme.png)
-
-> **Theme Toggle Button Screenshot:**  
-> ![Theme Toggle Screenshot](/Screenshots/theme-toggle.png)
-
+> ![Dark Theme Screenshot](/Screenshot/dark.png)
 ---
 
 ## 🛑 Challenges Faced & Solutions
