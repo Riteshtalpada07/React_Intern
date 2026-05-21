@@ -6,7 +6,7 @@
 | :--- | :--- |
 | **Student Name** | Talpada Ritesh Vijaybhai |
 | **Internship ID** | PRL-MERN-2026-XXXX |
-| **Date** | 2026-05-18 |
+| **Date** | 2026-05-20 |
 | **Course Day** | Day-7 |
 | **GitHub Repo** | https://github.com/Riteshtalpada07/React_Intern.git |
 
