@@ -84,7 +84,7 @@ app.listen(PORT, () => {
 > ![Browser Screenshot](/Screenshots/calculator.png)
 
 > **Project Structure Screenshot:**  
-> ![Project Structure Screenshot](/Screenshots/file structure.png)
+> ![Project Structure Screenshot](/Screenshots/file-structure.png)
 
 ---
 
